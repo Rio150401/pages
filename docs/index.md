@@ -11,3 +11,5 @@ hello world
 
 
 [ほげ](./fuga/hoge.md)
+
+![ほげ](./hoge.png)
